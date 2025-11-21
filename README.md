@@ -181,22 +181,3 @@ npx ts-node escrowRefund.ts <NFT_ASSET> <RECIPIENT> <AMOUNT_SOL_OR_ZERO>
 * Full on-chain escrow (Anchor smart contract)
 
 ---
-
-## License
-
-MIT — free to use, modify, and deploy.
-
----
-
-If you want this as a **downloadable file**, say:
-
-**“export as md”**
-
-Or if you want:
-
-* badges
-* emojis
-* marketplace UI
-* escrow diagrams
-
-Just tell me.
