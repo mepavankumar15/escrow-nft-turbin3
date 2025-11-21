@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (if wallet.json contains sensitive data)
+wallet.json
+.env
+.env.local
+.env.production
