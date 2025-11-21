@@ -1,9 +1,3 @@
-Below is a **complete, clean, copy-paste-ready `README.md`** for your **TypeScript NFT + Escrow Scripts Project**.
-
-If you want it exported as a file afterward, just say **"export as md"**.
-
----
-
 # NFT Escrow & Core NFT Management (TypeScript Project)
 
 This project provides a complete **TypeScript-based workflow** for interacting with **Solana Core NFTs**, including:
